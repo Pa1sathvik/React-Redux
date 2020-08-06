@@ -1,0 +1,1 @@
+export const VANILLA_STRAW = 'VANILLA_STRAW';
